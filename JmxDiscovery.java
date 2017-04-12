@@ -44,7 +44,7 @@ public class JmxDiscovery
 			//System.out.println("Security Exception :"+se.getMessage());
 			flag = true;
 		}
-		catch(Exception e)
+		catch(Exception ee)
 		{
 			//System.out.println("Exception Occured....:"+e.getMessage());
 			flag = false;
